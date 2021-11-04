@@ -15,7 +15,6 @@ public class Not {
         c=k.nextDouble();
         if (((a+b+c)/3)<50) System.out.println("Sınıfta kaldınız.");
         else System.out.println("Sınıfı geçtiniz.");
-        System.out.println("Ortalamanız: "+((a+b+c)/3));
-        
+        System.out.println("Ortalamanız: "+((a+b+c)/3));    
     }
 }

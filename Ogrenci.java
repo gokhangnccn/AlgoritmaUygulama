@@ -1,4 +1,6 @@
-// Klavyeden girilen öğrenci sayısı kadar öğrenci bilgilerini giren program.
+/*
+Klavyeden girilen öğrenci sayısı kadar öğrenci bilgilerini giren program.
+*/
 package EmineHOCA;
 import java.util.Scanner;
 public class Ogrenci {

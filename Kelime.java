@@ -11,8 +11,7 @@ public class Kelime {
             System.out.println(sayac+". Kelimeyi giriniz.");;
             String a=k.next();
             if (a.length()==5) System.out.println(a+" 5 Harfli kelimedir.");
-            sayac++;
-                    
+            sayac++;              
         } 
     }   
 }

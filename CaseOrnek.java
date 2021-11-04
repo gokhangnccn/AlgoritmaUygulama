@@ -1,3 +1,6 @@
+/*
+Switch-case örneği.
+*/
 package EmineHOCA;
 import java.util.Scanner;
 public class CaseOrnek {
